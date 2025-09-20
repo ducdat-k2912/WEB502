@@ -5,4 +5,4 @@ function chuViVaDienTich(dai: number, rong:number){
     console.log("Chu vi:",chuVi);
     console.log("Dien tich:",dienTich);
 }
-chuViVaDienTich(10, 5);
+chuViVaDienTich(12, 5);
