@@ -9,6 +9,6 @@ function showName(name :string = "ducdat"): string {
     return `Xin chào bạn ${name}`;
 }
 
-const myName = showName();
+const userName = showName();
 
 console.log(myName);
